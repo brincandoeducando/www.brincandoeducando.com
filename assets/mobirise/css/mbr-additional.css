@@ -999,7 +999,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-tsPZwGEUgr button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1071,7 +1071,7 @@ a {
   }
 }
 .cid-tsPZunxGU2 {
-  background-color: #22a5e5;
+  background-image: url("../../../assets/images/1-logo-1-1599x899.jpg");
 }
 .cid-tsPZunxGU2 .mbr-fallback-image.disabled {
   display: none;
